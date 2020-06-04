@@ -17,7 +17,6 @@
 ![React](https://img.shields.io/badge/react-v16.7.0--alpha.2-blue.svg)
 ![Typescript](https://img.shields.io/npm/types/typescript.svg?style=flat)
 [![Netlify Status](https://api.netlify.com/api/v1/badges/b5c4db1c-b10d-42c3-b157-3746edd9e81d/deploy-status)]
-
 ## Project Overview
 
 [Trello Board](https://trello.com/b/dA4YesTI/skeebster)
