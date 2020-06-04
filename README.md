@@ -17,8 +17,6 @@
 ![React](https://img.shields.io/badge/react-v16.7.0--alpha.2-blue.svg)
 ![Typescript](https://img.shields.io/npm/types/typescript.svg?style=flat)
 [![Netlify Status](https://api.netlify.com/api/v1/badges/b5c4db1c-b10d-42c3-b157-3746edd9e81d/deploy-status)]
-<p><a href="https://travis-ci.org/github/mhart/aws4" rel="nofollow"><img src="https://camo.githubusercontent.com/0fb624240b8ccb1d2c72225ceb857f2941f3c3f6/68747470733a2f2f6170692e7472617669732d63692e6f72672f6d686172742f617773342e706e673f6272616e63683d6d6173746572" alt="Build Status" data-canonical-src="https://api.travis-ci.org/mhart/aws4.png?branch=master" style="max-width:100%;"></a></p>
-
 ## Project Overview
 
 [Trello Board](https://trello.com/b/dA4YesTI/skeebster)
